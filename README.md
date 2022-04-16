@@ -1,4 +1,4 @@
-# UTM-attendance-Factors
+# UTM-attendance-factors
 Research study carried out to study the factors affecting University of Toronto Mississauga Students
 
 ## Overview
