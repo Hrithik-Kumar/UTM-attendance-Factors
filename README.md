@@ -6,3 +6,5 @@ Research study carried out to study the factors affecting University of Toronto 
 - More than 1000 responses were collected for the study
 - Statistical analysis was carried out in R and python for data modelling and visualization
 - Study results indicated that some of the significant factors affecting the university attendance were gender, and degree type
+
+![Alt text](p2.png?raw=true "Title")
